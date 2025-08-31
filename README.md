@@ -32,12 +32,4 @@ The system ensures **uninterrupted charging** for electric vehicles by intellige
 The proposed **hybrid EV charging station** enhances sustainability, reliability, and efficiency by integrating renewable energy, storage, and backup systems.  
 It demonstrates a **scalable model** for future smart cities and sustainable transportation infrastructure.  
 
-## 📚 References
-Key references include IEEE papers on EV charging strategies, hybrid renewable integration, and smart grid optimization. (See project report for detailed reference list.)  
 
----
-
-👨‍💻 **How to Use in GitHub Repo:**  
-- Add this `README.md` file to the root of your repository.  
-- Upload supporting files (Simulink models, MATLAB code, reports, diagrams).  
-- Document simulation steps and results for reproducibility.  
